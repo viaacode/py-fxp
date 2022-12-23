@@ -1,0 +1,6 @@
+Flask
+ftpext==0.1.0
+#pika==1.12.0
+pika
+python-dotenv==0.21.0
+viaa-chassis @ git+https://github.com/viaacode/chassis.py.git@178444e79b739359c7a566b8f35d4b87b7f5d694
