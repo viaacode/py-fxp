@@ -3,6 +3,7 @@
 - Rabbitmq worker
 FXP a file from server 1 to server 2 (FTPext)
 ### message example
+```
         {
           "destination_file": "target-testfile.txt",
           "destination_host": "host2",
